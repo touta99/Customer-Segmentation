@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load the trained model
-kmeans = pickle.load(open("kmeans.pkl", 'rb'))
+kmeans = pickle.load(open("kmeans.pkl",'rb'))
 
 # Cluster labels
 cluster_labels = {
