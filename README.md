@@ -11,4 +11,5 @@ You own the mall and want to understand the customers like who can be easily con
 Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?utm_source=chatgpt.com
 
 Outcome:
+
 <img width="987" height="272" alt="image" src="https://github.com/user-attachments/assets/672b8e29-5c04-4cd4-921b-b9996f55bddc" />
